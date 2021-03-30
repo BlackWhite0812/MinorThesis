@@ -1,7 +1,7 @@
 # MinorThesis
 This repository contains data and scripts for minor thesis
 
-Contact: Yuting Zou (yuting.zou@wur.nl)
+Contact: Yuting Zou (yuting.zou@wur.nl) 
 Date: 2021-03-30
 
 This repository stores all of codes and scripts used in master minor thesis.
